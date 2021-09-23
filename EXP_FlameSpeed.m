@@ -3,7 +3,7 @@
 % by Dr. Guan Guoqiang @ SCUT on 2021-9-18
 
 %% 初始化
-clear
+% clear
 flameHeight.s.Lg = 0.04; % 燃气转子流量计精度等级
 flameHeight.s.La = 0.04; % 空气转子流量计精度等级
 flameHeight.xm.Lg = SIConvert(1.6,'LPM'); % 燃气转子流量计量程
